@@ -10,4 +10,4 @@
   
 2 gragh show the amont of mouny user per day.  
 
-search by name or amont 
+3 search by name or amont 

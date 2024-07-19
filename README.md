@@ -9,3 +9,5 @@
 1 display information of user in a table.
   
 2 gragh show the amont of mouny user per day.  
+
+search by name or amont 

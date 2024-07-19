@@ -3,7 +3,7 @@
 ![2](https://github.com/user-attachments/assets/6bb436be-2be7-433a-b83d-d1d1972417a9)
 ![3](https://github.com/user-attachments/assets/a0a27d25-aabc-457d-9eec-55babc6d3a7f)
 
-* idea of project.
+#* idea of project.
 
 1 display information of user in a table.
   
